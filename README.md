@@ -1,16 +1,16 @@
-## Hi there 👋
+# Playnoxa
 
-<!--
-**PlayNoxa/playnoxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Playnoxa is a gaming guides website focused on practical help for players looking for reward tips, redeem help, and useful walkthroughs for Roblox, Valorant, and more.
 
-Here are some ideas to get you started:
+## Website
+[https://playnoxa.com](https://playnoxa.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Gaming guides
+- Reward tips
+- Redeem help
+- Roblox walkthroughs
+- Valorant walkthroughs
+
+## About
+Playnoxa aims to publish clear, player-focused content that is useful, simple to follow, and easy to explore.
